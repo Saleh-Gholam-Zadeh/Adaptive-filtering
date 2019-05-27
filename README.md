@@ -1,2 +1,2 @@
 # Adaptive-filtering
-Implement different method for Adaptive denoising 
+Implementation of different methods for Adaptive denoising 
